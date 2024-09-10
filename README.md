@@ -61,4 +61,4 @@ Katkılara açıktır! Eğer bir hata bulursanız veya yeni bir özellik eklemek
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır - daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
-" > README.md
+" 
