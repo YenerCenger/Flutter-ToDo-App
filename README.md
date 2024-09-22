@@ -13,16 +13,6 @@ Bu Flutter uygulaması, kullanıcıların görevlerini yönetmelerine yardımcı
 - Görev listesini görüntüleme
 - Kullanıcı dostu arayüz
 
-## Ekran Görüntüleri
-
-Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
-
-![Ana Ekran](screenshots/home_screen.png)
-*Ana ekran görüntüsü*
-
-![Görev Ekleme Ekranı](screenshots/add_task_screen.png)
-*Görev ekleme ekranı görüntüsü*
-
 ## Kurulum
 
 1. Kodu bilgisayarınıza indirin:
@@ -71,16 +61,6 @@ This Flutter application is a simple ToDo app that helps users manage their task
 - Mark completed tasks
 - View task list
 - User-friendly interface
-
-## Screenshots
-
-Below are some screenshots from the app:
-
-![Home Screen](screenshots/home_screen.png)
-*Home screen image*
-
-![Add Task Screen](screenshots/add_task_screen.png)
-*Add task screen image*
 
 ## Installation
 
